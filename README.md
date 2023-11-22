@@ -4,7 +4,7 @@ A stock trading bot to generate optimized returns on the S&amp;P 500.
 # Results
 
 # 1. Technical Indicators
-###1.1 Trend Detection
+### 1.1 Trend Detection
 We will use the 200-day moving average for trend detection. 
 
 If candles are trading above the curve of the moving average, we are in an uptrend. If below the SMA, we are in a downtrend. We determine this by testing if there are 5 consecutive candles trading above or below the curve.
