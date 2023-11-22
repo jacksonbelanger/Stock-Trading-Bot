@@ -14,7 +14,7 @@ We will use Bollinger Bands for our price envelope. Bollinger Bands are upper an
 
 The period for our Bollinger Band is 20 days, and our standard deviation is 2.5. The standard deviation for typical Bollinger Bands is 2, but this strategy is for safely increasing your capital in the S&P 500 Index, and therefore we want to cover 98% of price data.
 
-![bellcurve](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmathbitsnotebook.com%2FAlgebra2%2FStatistics%2FSTstandardNormalDistribution.html&psig=AOvVaw2MuH75WaRbV50TzxDYwLNM&ust=1700703652278000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi7rvq81oIDFQAAAAAdAAAAABAE)
+![bellcurve](https://mathbitsnotebook.com/Algebra2/Statistics/normalstandard.jpg)
 
 Length=20, STD=2.5
 
