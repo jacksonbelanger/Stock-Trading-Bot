@@ -3,7 +3,7 @@ A stock trading bot to generate optimized returns on the S&amp;P 500.
 
 # Results
 
-# 1) Technical Indicators
+# 1 Technical Indicators
 1.1 Trend Detection
 We will use the 200-day moving average for trend detection. 
 
@@ -22,7 +22,7 @@ If the stock price touches the lower curve of the Bollinger Band, we assume the 
 1.3 Momentum
 We use RSI to measure the speed and magnitude of the stock’s short-term price change. This can help us determine when to close our position, which will be discussed in the next portion: Strategy.
 
-# 2) Strategy
+# 2 Strategy
 2.1 Buy/Sell Triggers
 If we have an uptrend and are looking for buying positions, we will wait for a candle closing below the lower Bollinger Band. When this happens, we will put in an order at the closing price of the trigger candle. Likewise, when we are looking for a selling position, we look for a candle closing above the high Bollinger Band. When this happens, we put in an order to sell at the closing price of the trigger candle.
 
