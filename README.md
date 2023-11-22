@@ -3,7 +3,7 @@ A stock trading bot to generate optimized returns on the S&amp;P 500.
 
 # Results
 
-# 1 Technical Indicators
+# 1) Technical Indicators
 1.1 Trend Detection
 We will use the 200-day moving average for trend detection. 
 
