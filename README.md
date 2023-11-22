@@ -2,6 +2,7 @@
 A stock trading bot to generate optimized returns on the S&amp;P 500.
 
 # Results
+![performance_graph](trading_bot_graph.png)
 
 # 1. Technical Indicators
 ### 1.1 Trend Detection
