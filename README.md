@@ -1,8 +1,8 @@
 # Stock-Trading-Bot
 A stock trading bot to generate optimized returns on the S&amp;P 500.
 
-# Results
-![performance_graph](trading_bot_graph.png)
+_Attained a 2610% return since the year I was born, over 7x the return of passively holding the S%P 500 in that timeframe.
+Moral of the story: use this algorithmic trading bot from the moment you are born._
 
 # 1. Technical Indicators
 ### 1.1 Trend Detection
@@ -38,3 +38,6 @@ If the order is not traded the next day, we will keep the trade open for 2 days.
 Only one trade should be allowed to be open at any given point in time. This is inherently a very selective trading model, and we want to avoid overlapping trades.
 
 If we have consecutive signals to make a trade, we will only take the latest signal into account. The previous signal and target price will be erased. This will prevent over-trading on a single price swing.
+
+# 3. Results
+![performance_graph](trading_bot_graph.png)
