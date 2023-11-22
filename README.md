@@ -1,8 +1,7 @@
 # Stock-Trading-Bot
 A stock trading bot to generate optimized returns on the S&amp;P 500.
-
-__Attained a 2610% return since the year I was born, over 7x the return of passively holding the S%P 500 in that timeframe.<br>
-Moral of the story: use this algorithmic trading bot from the moment you are born.__
+Attained a 2610% return since the year I was born, over 7x the return of passively holding the S%P 500 in that timeframe.<br>
+Moral of the story: use this algorithmic trading bot from the moment you are born.
 
 # 1. Technical Indicators
 ### 1.1 Trend Detection
