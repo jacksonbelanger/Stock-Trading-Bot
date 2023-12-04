@@ -42,3 +42,5 @@ If we have consecutive signals to make a trade, we will only take the latest sig
 
 # 3. Results
 ![performance_graph](trading_bot_graph.png)
+
+Overall, this was a cool project. It would be interesting to explore how trading bots like this that are considered "safe" can be implemented in financial services and fintech.
